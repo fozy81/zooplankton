@@ -42,7 +42,7 @@ dataA <- melt(myData2, id = "X")
 dataA <- dataA[dataA$value != "",]
 dataA <- dataA[dataA$variable == "X.1",]
 data3 <- merge(data3, dataA, by.x = "X.1.x", by.y="value" )
-data3 <- data3[data3$X.1.x != "Month"& data3$X.1.x != "Depth" & data3$X.1.x != "Sub-sample multiplier",]
+data3 <- data3[data3$X.1.x != "Month" | data3$X.1.x != "Depth" | data3$X.1.x != "Sub-sample multiplier",]
 
 
 write.csv(data3, "zooDataFormatted.csv")

@@ -107,15 +107,6 @@
 "106","Cyphonautes larvae","March","8","88","Bryozoa","X.1",1
 "107","Cyphonautes larvae","November","2","2","Bryozoa","X.1",1
 "108","Cyprid","April","16","16","Cirripedia","X.1",1
-"109","Depth","November","2","Vertical","","X.1",1
-"110","Depth","July","25","Vertical","","X.1",1
-"111","Depth","June","50","Vertical","","X.1",1
-"112","Depth","April","16","Vertical","","X.1",1
-"113","Depth","March","8","Vertical","","X.1",1
-"114","Depth","October","16","Vertical","","X.1",1
-"115","Depth","May","50","Vertical","","X.1",1
-"116","Depth","August","100","Vertical","","X.1",1
-"117","Depth","September","16","Vertical","","X.1",1
 "118","Echinopluteus larvae (sea urchin)","August","100","202","Echinodermata ","X.1",1
 "119","Echinopluteus larvae (sea urchin)","March","8","56","Echinodermata ","X.1",1
 "120","Echinopluteus larvae (sea urchin)","July","25","1","Echinodermata ","X.1",1
@@ -466,15 +457,6 @@
 "465","Microsetella norvegica","March","8","96","Harpacticoida","X.1",1
 "466","Microsetella norvegica","July","25","25","Harpacticoida","X.1",1
 "467","Microsetella norvegica","April","16","32","Harpacticoida","X.1",1
-"468","Month","September","16","September","","X.1",1
-"469","Month","March","8","March","","X.1",1
-"470","Month","August","100","August","","X.1",1
-"471","Month","May","50","May","","X.1",1
-"472","Month","April","16","April","","X.1",1
-"473","Month","October","16","October","","X.1",1
-"474","Month","June","50","June","","X.1",1
-"475","Month","July","25","July","","X.1",1
-"476","Month","November","2","November","","X.1",1
 "477","Nanomia cara","July","25","1","Siphonophora ","X.1",1
 "478","Nauplius","March","8","192","Cirripedia","X.1",1
 "479","Nauplius","August","100","100","Cirripedia","X.1",1
@@ -596,15 +578,6 @@
 "595","Remains","September","16","1","Ctenophora","X.1",1
 "596","Remains","July","25","27","Cnidaeria","X.1",1
 "597","Remains","July","25","27","Ctenophora","X.1",1
-"598","Sub-sample multiplier","November","2","2","","X.1",1
-"599","Sub-sample multiplier","October","16","16","","X.1",1
-"600","Sub-sample multiplier","July","25","25","","X.1",1
-"601","Sub-sample multiplier","March","8","8","","X.1",1
-"602","Sub-sample multiplier","May","50","50","","X.1",1
-"603","Sub-sample multiplier","June","50","50","","X.1",1
-"604","Sub-sample multiplier","September","16","16","","X.1",1
-"605","Sub-sample multiplier","August","100","100","","X.1",1
-"606","Sub-sample multiplier","April","16","16","","X.1",1
 "607","Temora longicornis C1","July","25","125","Calanoida","X.1",1
 "608","Temora longicornis C1","August","100","200","Calanoida","X.1",1
 "609","Temora longicornis C1","June","50","50","Calanoida","X.1",1
