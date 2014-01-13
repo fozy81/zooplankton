@@ -1,5 +1,6 @@
 
 library(reshape2)
+library(ggplot2)
 
 #### Get list of excel files from directory and sub-directories
 
@@ -44,5 +45,8 @@ dataA <- dataA[dataA$variable == "X.1",]
 data3 <- merge(data3, dataA, by.x = "X.1.x", by.y="value" )
 data3 <- data3[data3$X.1.x != "Month" | data3$X.1.x != "Depth" | data3$X.1.x != "Sub-sample multiplier",]
 
+data3$value.x <- as.numeric(data3$value.x)
+
+qplot(data3$date, data3$value.x, color=data3$X)
 
 write.csv(data3, "zooDataFormatted.csv")
