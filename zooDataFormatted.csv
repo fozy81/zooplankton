@@ -1,0 +1,631 @@
+"","X.1.x","date","multi","value.x","X","variable","L1"
+"1","Acartia clausi C6F","July","25","175","Calanoida","X.1",1
+"2","Acartia clausi C6F","November","2","78","Calanoida","X.1",1
+"3","Acartia clausi C6F","October","16","128","Calanoida","X.1",1
+"4","Acartia clausi C6M","October","16","16","Calanoida","X.1",1
+"5","Acartia clausi C6M","July","25","50","Calanoida","X.1",1
+"6","Acartia spp. C1","June","50","50","Calanoida","X.1",1
+"7","Acartia spp. C1","March","8","8","Calanoida","X.1",1
+"8","Acartia spp. C1","August","100","1300","Calanoida","X.1",1
+"9","Acartia spp. C1","July","25","50","Calanoida","X.1",1
+"10","Acartia spp. C1","April","16","16","Calanoida","X.1",1
+"11","Acartia spp. C2","March","8","24","Calanoida","X.1",1
+"12","Acartia spp. C2","June","50","50","Calanoida","X.1",1
+"13","Acartia spp. C2","April","16","16","Calanoida","X.1",1
+"14","Acartia spp. C2","July","25","50","Calanoida","X.1",1
+"15","Acartia spp. C2","August","100","500","Calanoida","X.1",1
+"16","Acartia spp. C3","October","16","16","Calanoida","X.1",1
+"17","Acartia spp. C3","August","100","400","Calanoida","X.1",1
+"18","Acartia spp. C3","June","50","50","Calanoida","X.1",1
+"19","Acartia spp. C4","July","25","125","Calanoida","X.1",1
+"20","Acartia spp. C4","August","100","600","Calanoida","X.1",1
+"21","Acartia spp. C5","April","16","16","Calanoida","X.1",1
+"22","Acartia spp. C5","November","2","8","Calanoida","X.1",1
+"23","Acartia spp. C5","August","100","400","Calanoida","X.1",1
+"24","Acartia spp. C5","July","25","25","Calanoida","X.1",1
+"25","Acartia spp. C5","September","16","80","Calanoida","X.1",1
+"26","Acartia spp. C6F","May","50","50","Calanoida","X.1",1
+"27","Acartia spp. C6F","August","100","300","Calanoida","X.1",1
+"28","Acartia spp. C6F","September","16","352","Calanoida","X.1",1
+"29","Acartia spp. C6M","September","16","48","Calanoida","X.1",1
+"30","Actinotroch larvae","August","100","105","Phoronida","X.1",1
+"31","Actinotroch larvae","October","16","1","Phoronida","X.1",1
+"32","Actinula","May","50","3","Hydrozoa ","X.1",1
+"33","Aglantha digitale","May","50","1","Hydrozoa ","X.1",1
+"34","Bipinnaria larvae (starfish)","July","25","50","Echinodermata ","X.1",1
+"35","Bivalve larvae","August","100","1000","Mollusca","X.1",1
+"36","Bivalve larvae","September","16","32","Mollusca","X.1",1
+"37","Bivalve larvae","July","25","950","Mollusca","X.1",1
+"38","Bivalve larvae","May","50","250","Mollusca","X.1",1
+"39","Bivalve larvae","October","16","32","Mollusca","X.1",1
+"40","Bouganvillia spp.","August","100","1","Hydrozoa ","X.1",1
+"41","Brachiolarian larvae (starfish)","August","100","202","Echinodermata ","X.1",1
+"42","Calanus finmarchicus C5","November","2","8","Calanoida","X.1",1
+"43","Calanus finmarchicus C5","June","50","50","Calanoida","X.1",1
+"44","Calanus finmarchicus C5","August","100","7","Calanoida","X.1",1
+"45","Calanus finmarchicus C5","April","16","136","Calanoida","X.1",1
+"46","Calanus finmarchicus C6F","November","2","1","Calanoida","X.1",1
+"47","Calanus finmarchicus C6F","August","100","1","Calanoida","X.1",1
+"48","Calanus finmarchicus C6F","June","50","50","Calanoida","X.1",1
+"49","Calanus finmarchicus C6F","May","50","100","Calanoida","X.1",1
+"50","Calanus finmarchicus C6F","April","16","48","Calanoida","X.1",1
+"51","Calanus finmarchicus C6M","August","100","3","Calanoida","X.1",1
+"52","Calanus finmarchicus C6M","April","16","8","Calanoida","X.1",1
+"53","Calanus helgolandicus C5","August","100","3","Calanoida","X.1",1
+"54","Calanus helgolandicus C5","September","16","32","Calanoida","X.1",1
+"55","Calanus helgolandicus C5","October","16","20","Calanoida","X.1",1
+"56","Calanus helgolandicus C5","November","2","1","Calanoida","X.1",1
+"57","Calanus helgolandicus C5","July","25","75","Calanoida","X.1",1
+"58","Calanus helgolandicus C6F","October","16","1","Calanoida","X.1",1
+"59","Calanus helgolandicus C6F","April","16","8","Calanoida","X.1",1
+"60","Calanus helgolandicus C6F","September","16","32","Calanoida","X.1",1
+"61","Calanus spp. C1","August","100","100","Calanoida","X.1",1
+"62","Calanus spp. C1","September","16","16","Calanoida","X.1",1
+"63","Calanus spp. C1","June","50","150","Calanoida","X.1",1
+"64","Calanus spp. C1","October","16","16","Calanoida","X.1",1
+"65","Calanus spp. C2","October","16","16","Calanoida","X.1",1
+"66","Calanus spp. C2","August","100","100","Calanoida","X.1",1
+"67","Calanus spp. C2","June","50","200","Calanoida","X.1",1
+"68","Calanus spp. C3","October","16","16","Calanoida","X.1",1
+"69","Calanus spp. C3","May","50","50","Calanoida","X.1",1
+"70","Calanus spp. C3","June","50","50","Calanoida","X.1",1
+"71","Calanus spp. C3","July","25","25","Calanoida","X.1",1
+"72","Calanus spp. C4","June","50","300","Calanoida","X.1",1
+"73","Calanus spp. C4","April","16","120","Calanoida","X.1",1
+"74","Calanus spp. C4","October","16","17","Calanoida","X.1",1
+"75","Calanus spp. C4","September","16","32","Calanoida","X.1",1
+"76","Calanus spp. C4","November","2","2","Calanoida","X.1",1
+"77","Calanus spp. C4","August","100","1","Calanoida","X.1",1
+"78","Calanus spp. C4","May","50","50","Calanoida","X.1",1
+"79","Calanus spp. C4","July","25","125","Calanoida","X.1",1
+"80","Candacia armata C1-5","October","16","1","Calanoida","X.1",1
+"81","Candacia armata C1-5","September","16","1","Calanoida","X.1",1
+"82","Centropages hamatus C6M","July","25","25","Calanoida","X.1",1
+"83","Centropages hamatus C6M","November","2","2","Calanoida","X.1",1
+"84","Centropages hamatus C6M","August","100","1","Calanoida","X.1",1
+"85","Centropages spp. C2","April","16","16","Calanoida","X.1",1
+"86","Centropages spp. C3","May","50","50","Calanoida","X.1",1
+"87","Centropages spp. C4","November","2","2","Calanoida","X.1",1
+"88","Centropages typicus C5","September","16","1","Calanoida","X.1",1
+"89","Centropages typicus C6F","September","16","2","Calanoida","X.1",1
+"90","Centropages typicus C6F","October","16","5","Calanoida","X.1",1
+"91","Centropages typicus C6F","November","2","1","Calanoida","X.1",1
+"92","Centropages typicus C6M","September","16","4","Calanoida","X.1",1
+"93","Centropages typicus C6M","October","16","2","Calanoida","X.1",1
+"94","Clausidiidae spp.","May","50","100","Cyclopoida","X.1",1
+"95","Clausocalanus spp. C6F","March","8","8","Calanoida","X.1",1
+"96","Clytia hemisphaerica","July","25","4","Hydrozoa ","X.1",1
+"97","Corycaeus spp.","September","16","16","Cyclopoida","X.1",1
+"98","Coryne eximia","August","100","1","Hydrozoa ","X.1",1
+"99","Cyphonautes larvae","October","16","368","Bryozoa","X.1",1
+"100","Cyphonautes larvae","May","50","100","Bryozoa","X.1",1
+"101","Cyphonautes larvae","April","16","80","Bryozoa","X.1",1
+"102","Cyphonautes larvae","September","16","128","Bryozoa","X.1",1
+"103","Cyphonautes larvae","June","50","150","Bryozoa","X.1",1
+"104","Cyphonautes larvae","July","25","25","Bryozoa","X.1",1
+"105","Cyphonautes larvae","August","100","400","Bryozoa","X.1",1
+"106","Cyphonautes larvae","March","8","88","Bryozoa","X.1",1
+"107","Cyphonautes larvae","November","2","2","Bryozoa","X.1",1
+"108","Cyprid","April","16","16","Cirripedia","X.1",1
+"109","Depth","November","2","Vertical","","X.1",1
+"110","Depth","July","25","Vertical","","X.1",1
+"111","Depth","June","50","Vertical","","X.1",1
+"112","Depth","April","16","Vertical","","X.1",1
+"113","Depth","March","8","Vertical","","X.1",1
+"114","Depth","October","16","Vertical","","X.1",1
+"115","Depth","May","50","Vertical","","X.1",1
+"116","Depth","August","100","Vertical","","X.1",1
+"117","Depth","September","16","Vertical","","X.1",1
+"118","Echinopluteus larvae (sea urchin)","August","100","202","Echinodermata ","X.1",1
+"119","Echinopluteus larvae (sea urchin)","March","8","56","Echinodermata ","X.1",1
+"120","Echinopluteus larvae (sea urchin)","July","25","1","Echinodermata ","X.1",1
+"121","Euphysa spp.","August","100","3","Hydrozoa ","X.1",1
+"122","Euphysa spp.","April","16","1","Hydrozoa ","X.1",1
+"123","Eurytemora affinis C6M","September","16","16","Calanoida","X.1",1
+"124","Euterpina acutifrons ","July","25","25","Harpacticoida","X.1",1
+"125","Evadne nordmanni","May","50","200","Cladocera","X.1",1
+"126","Evadne nordmanni","June","50","450","Cladocera","X.1",1
+"127","Evadne nordmanni","July","25","150","Cladocera","X.1",1
+"128","Evadne nordmanni","March","8","16","Cladocera","X.1",1
+"129","Evadne nordmanni","August","100","500","Cladocera","X.1",1
+"130","Fish","July","25","27","Eggs","X.1",1
+"131","Fish","April","16","3","Eggs","X.1",1
+"132","Fish","August","100","1","Eggs","X.1",1
+"133","Fish","March","8","1","Eggs","X.1",1
+"134","Fish","June","50","1","Eggs","X.1",1
+"135","Freeswimming","July","25","25","Isopoda ","X.1",1
+"136","Fritillaria borealis","July","25","50","Appendicularia","X.1",1
+"137","Fritillaria borealis","November","2","6","Appendicularia","X.1",1
+"138","Fritillaria borealis","March","8","104","Appendicularia","X.1",1
+"139","Fritillaria borealis","August","100","200","Appendicularia","X.1",1
+"140","Hybocodon prolifer","June","50","8","Hydrozoa ","X.1",1
+"141","Hybocodon prolifer","May","50","21","Hydrozoa ","X.1",1
+"142","Indeterminate","August","100","600","Eggs","X.1",1
+"143","Indeterminate","August","100","600","Siphonophora ","X.1",1
+"144","Indeterminate","August","100","600","Platyhelminth","X.1",1
+"145","Indeterminate","August","100","600","Nematoda ","X.1",1
+"146","Indeterminate","August","100","600","Cumacea","X.1",1
+"147","Indeterminate","August","100","600","Others","X.1",1
+"148","Indeterminate","August","100","600","Chaetognatha","X.1",1
+"149","Indeterminate","August","100","600","Mysida","X.1",1
+"150","Indeterminate","August","100","600","Harpacticoida","X.1",1
+"151","Indeterminate","September","16","32","Eggs","X.1",1
+"152","Indeterminate","September","16","32","Siphonophora ","X.1",1
+"153","Indeterminate","September","16","32","Platyhelminth","X.1",1
+"154","Indeterminate","September","16","32","Nematoda ","X.1",1
+"155","Indeterminate","September","16","32","Cumacea","X.1",1
+"156","Indeterminate","September","16","32","Others","X.1",1
+"157","Indeterminate","September","16","32","Chaetognatha","X.1",1
+"158","Indeterminate","September","16","32","Mysida","X.1",1
+"159","Indeterminate","September","16","32","Harpacticoida","X.1",1
+"160","Indeterminate","September","16","16","Eggs","X.1",1
+"161","Indeterminate","September","16","16","Siphonophora ","X.1",1
+"162","Indeterminate","September","16","16","Platyhelminth","X.1",1
+"163","Indeterminate","September","16","16","Nematoda ","X.1",1
+"164","Indeterminate","September","16","16","Cumacea","X.1",1
+"165","Indeterminate","September","16","16","Others","X.1",1
+"166","Indeterminate","September","16","16","Chaetognatha","X.1",1
+"167","Indeterminate","September","16","16","Mysida","X.1",1
+"168","Indeterminate","September","16","16","Harpacticoida","X.1",1
+"169","Indeterminate","April","16","16","Eggs","X.1",1
+"170","Indeterminate","April","16","16","Siphonophora ","X.1",1
+"171","Indeterminate","April","16","16","Platyhelminth","X.1",1
+"172","Indeterminate","April","16","16","Nematoda ","X.1",1
+"173","Indeterminate","April","16","16","Cumacea","X.1",1
+"174","Indeterminate","April","16","16","Others","X.1",1
+"175","Indeterminate","April","16","16","Chaetognatha","X.1",1
+"176","Indeterminate","April","16","16","Mysida","X.1",1
+"177","Indeterminate","April","16","16","Harpacticoida","X.1",1
+"178","Indeterminate","June","50","2150","Eggs","X.1",1
+"179","Indeterminate","June","50","2150","Siphonophora ","X.1",1
+"180","Indeterminate","June","50","2150","Platyhelminth","X.1",1
+"181","Indeterminate","June","50","2150","Nematoda ","X.1",1
+"182","Indeterminate","June","50","2150","Cumacea","X.1",1
+"183","Indeterminate","June","50","2150","Others","X.1",1
+"184","Indeterminate","June","50","2150","Chaetognatha","X.1",1
+"185","Indeterminate","June","50","2150","Mysida","X.1",1
+"186","Indeterminate","June","50","2150","Harpacticoida","X.1",1
+"187","Indeterminate","July","25","2375","Eggs","X.1",1
+"188","Indeterminate","July","25","2375","Siphonophora ","X.1",1
+"189","Indeterminate","July","25","2375","Platyhelminth","X.1",1
+"190","Indeterminate","July","25","2375","Nematoda ","X.1",1
+"191","Indeterminate","July","25","2375","Cumacea","X.1",1
+"192","Indeterminate","July","25","2375","Others","X.1",1
+"193","Indeterminate","July","25","2375","Chaetognatha","X.1",1
+"194","Indeterminate","July","25","2375","Mysida","X.1",1
+"195","Indeterminate","July","25","2375","Harpacticoida","X.1",1
+"196","Indeterminate","July","25","25","Eggs","X.1",1
+"197","Indeterminate","July","25","25","Siphonophora ","X.1",1
+"198","Indeterminate","July","25","25","Platyhelminth","X.1",1
+"199","Indeterminate","July","25","25","Nematoda ","X.1",1
+"200","Indeterminate","July","25","25","Cumacea","X.1",1
+"201","Indeterminate","July","25","25","Others","X.1",1
+"202","Indeterminate","July","25","25","Chaetognatha","X.1",1
+"203","Indeterminate","July","25","25","Mysida","X.1",1
+"204","Indeterminate","July","25","25","Harpacticoida","X.1",1
+"205","Indeterminate","March","8","26","Eggs","X.1",1
+"206","Indeterminate","March","8","26","Siphonophora ","X.1",1
+"207","Indeterminate","March","8","26","Platyhelminth","X.1",1
+"208","Indeterminate","March","8","26","Nematoda ","X.1",1
+"209","Indeterminate","March","8","26","Cumacea","X.1",1
+"210","Indeterminate","March","8","26","Others","X.1",1
+"211","Indeterminate","March","8","26","Chaetognatha","X.1",1
+"212","Indeterminate","March","8","26","Mysida","X.1",1
+"213","Indeterminate","March","8","26","Harpacticoida","X.1",1
+"214","Indeterminate","May","50","6550","Eggs","X.1",1
+"215","Indeterminate","May","50","6550","Siphonophora ","X.1",1
+"216","Indeterminate","May","50","6550","Platyhelminth","X.1",1
+"217","Indeterminate","May","50","6550","Nematoda ","X.1",1
+"218","Indeterminate","May","50","6550","Cumacea","X.1",1
+"219","Indeterminate","May","50","6550","Others","X.1",1
+"220","Indeterminate","May","50","6550","Chaetognatha","X.1",1
+"221","Indeterminate","May","50","6550","Mysida","X.1",1
+"222","Indeterminate","May","50","6550","Harpacticoida","X.1",1
+"223","Indeterminate","July","25","25","Eggs","X.1",1
+"224","Indeterminate","July","25","25","Siphonophora ","X.1",1
+"225","Indeterminate","July","25","25","Platyhelminth","X.1",1
+"226","Indeterminate","July","25","25","Nematoda ","X.1",1
+"227","Indeterminate","July","25","25","Cumacea","X.1",1
+"228","Indeterminate","July","25","25","Others","X.1",1
+"229","Indeterminate","July","25","25","Chaetognatha","X.1",1
+"230","Indeterminate","July","25","25","Mysida","X.1",1
+"231","Indeterminate","July","25","25","Harpacticoida","X.1",1
+"232","Indeterminate","April","16","144","Eggs","X.1",1
+"233","Indeterminate","April","16","144","Siphonophora ","X.1",1
+"234","Indeterminate","April","16","144","Platyhelminth","X.1",1
+"235","Indeterminate","April","16","144","Nematoda ","X.1",1
+"236","Indeterminate","April","16","144","Cumacea","X.1",1
+"237","Indeterminate","April","16","144","Others","X.1",1
+"238","Indeterminate","April","16","144","Chaetognatha","X.1",1
+"239","Indeterminate","April","16","144","Mysida","X.1",1
+"240","Indeterminate","April","16","144","Harpacticoida","X.1",1
+"241","Indeterminate","July","25","25","Eggs","X.1",1
+"242","Indeterminate","July","25","25","Siphonophora ","X.1",1
+"243","Indeterminate","July","25","25","Platyhelminth","X.1",1
+"244","Indeterminate","July","25","25","Nematoda ","X.1",1
+"245","Indeterminate","July","25","25","Cumacea","X.1",1
+"246","Indeterminate","July","25","25","Others","X.1",1
+"247","Indeterminate","July","25","25","Chaetognatha","X.1",1
+"248","Indeterminate","July","25","25","Mysida","X.1",1
+"249","Indeterminate","July","25","25","Harpacticoida","X.1",1
+"250","Indeterminate","September","16","16","Eggs","X.1",1
+"251","Indeterminate","September","16","16","Siphonophora ","X.1",1
+"252","Indeterminate","September","16","16","Platyhelminth","X.1",1
+"253","Indeterminate","September","16","16","Nematoda ","X.1",1
+"254","Indeterminate","September","16","16","Cumacea","X.1",1
+"255","Indeterminate","September","16","16","Others","X.1",1
+"256","Indeterminate","September","16","16","Chaetognatha","X.1",1
+"257","Indeterminate","September","16","16","Mysida","X.1",1
+"258","Indeterminate","September","16","16","Harpacticoida","X.1",1
+"259","Indeterminate adult","October","16","1","Euphausiidae ","X.1",1
+"260","Indeterminate adult","August","100","1","Euphausiidae ","X.1",1
+"261","Indeterminate adult","July","25","1","Euphausiidae ","X.1",1
+"262","Indeterminate C1-5","June","50","150","Cyclopoida","X.1",1
+"263","Indeterminate C1-5","June","50","150","Calanoida","X.1",1
+"264","Indeterminate C1-5","June","50","150","Monstrilloida","X.1",1
+"265","Indeterminate C1-5","May","50","200","Cyclopoida","X.1",1
+"266","Indeterminate C1-5","May","50","200","Calanoida","X.1",1
+"267","Indeterminate C1-5","May","50","200","Monstrilloida","X.1",1
+"268","Indeterminate C1-5","September","16","48","Cyclopoida","X.1",1
+"269","Indeterminate C1-5","September","16","48","Calanoida","X.1",1
+"270","Indeterminate C1-5","September","16","48","Monstrilloida","X.1",1
+"271","Indeterminate C1-5","July","25","75","Cyclopoida","X.1",1
+"272","Indeterminate C1-5","July","25","75","Calanoida","X.1",1
+"273","Indeterminate C1-5","July","25","75","Monstrilloida","X.1",1
+"274","Indeterminate C1-5","August","100","700","Cyclopoida","X.1",1
+"275","Indeterminate C1-5","August","100","700","Calanoida","X.1",1
+"276","Indeterminate C1-5","August","100","700","Monstrilloida","X.1",1
+"277","Indeterminate C1-5","October","16","80","Cyclopoida","X.1",1
+"278","Indeterminate C1-5","October","16","80","Calanoida","X.1",1
+"279","Indeterminate C1-5","October","16","80","Monstrilloida","X.1",1
+"280","Indeterminate C1-5","March","8","64","Cyclopoida","X.1",1
+"281","Indeterminate C1-5","March","8","64","Calanoida","X.1",1
+"282","Indeterminate C1-5","March","8","64","Monstrilloida","X.1",1
+"283","Indeterminate C1-5","June","50","100","Cyclopoida","X.1",1
+"284","Indeterminate C1-5","June","50","100","Calanoida","X.1",1
+"285","Indeterminate C1-5","June","50","100","Monstrilloida","X.1",1
+"286","Indeterminate C6F","March","8","8","Cyclopoida","X.1",1
+"287","Indeterminate C6F","March","8","8","Calanoida","X.1",1
+"288","Indeterminate C6F","March","8","8","Monstrilloida","X.1",1
+"289","Indeterminate calyptopi","August","100","200","Euphausiidae","X.1",1
+"290","Indeterminate furcilia","August","100","1","Euphausiidae ","X.1",1
+"291","Indeterminate hydromedusa","May","50","1","Hydrozoa ","X.1",1
+"292","Indeterminate hydromedusa","April","16","16","Hydrozoa ","X.1",1
+"293","Indeterminate hydromedusa","August","100","1000","Hydrozoa ","X.1",1
+"294","Indeterminate hydromedusa","March","8","16","Hydrozoa ","X.1",1
+"295","Indeterminate hydromedusa","October","16","1","Hydrozoa ","X.1",1
+"296","Indeterminate hydromedusa","September","16","18","Hydrozoa ","X.1",1
+"297","Indeterminate hydromedusa","July","25","9","Hydrozoa ","X.1",1
+"298","Indeterminate hydromedusa","June","50","150","Hydrozoa ","X.1",1
+"299","Indeterminate Juvenile","April","16","48","Polychaeta","X.1",1
+"300","Indeterminate Juvenile","August","100","211","Polychaeta","X.1",1
+"301","Indeterminate Juvenile","October","16","1","Polychaeta","X.1",1
+"302","Indeterminate Juvenile","July","25","26","Polychaeta","X.1",1
+"303","Indeterminate Juvenile","September","16","2","Polychaeta","X.1",1
+"304","Indeterminate Juvenile","June","50","100","Polychaeta","X.1",1
+"305","Indeterminate larvae","October","16","32","Gastropoda","X.1",1
+"306","Indeterminate larvae","October","16","32","Ascidiacea","X.1",1
+"307","Indeterminate larvae","October","16","32","Polychaeta","X.1",1
+"308","Indeterminate larvae","October","16","32","Decapoda","X.1",1
+"309","Indeterminate larvae","October","16","32","Echinodermata ","X.1",1
+"310","Indeterminate larvae","September","16","1","Gastropoda","X.1",1
+"311","Indeterminate larvae","September","16","1","Ascidiacea","X.1",1
+"312","Indeterminate larvae","September","16","1","Polychaeta","X.1",1
+"313","Indeterminate larvae","September","16","1","Decapoda","X.1",1
+"314","Indeterminate larvae","September","16","1","Echinodermata ","X.1",1
+"315","Indeterminate larvae","March","8","208","Gastropoda","X.1",1
+"316","Indeterminate larvae","March","8","208","Ascidiacea","X.1",1
+"317","Indeterminate larvae","March","8","208","Polychaeta","X.1",1
+"318","Indeterminate larvae","March","8","208","Decapoda","X.1",1
+"319","Indeterminate larvae","March","8","208","Echinodermata ","X.1",1
+"320","Indeterminate larvae","July","25","1","Gastropoda","X.1",1
+"321","Indeterminate larvae","July","25","1","Ascidiacea","X.1",1
+"322","Indeterminate larvae","July","25","1","Polychaeta","X.1",1
+"323","Indeterminate larvae","July","25","1","Decapoda","X.1",1
+"324","Indeterminate larvae","July","25","1","Echinodermata ","X.1",1
+"325","Indeterminate larvae","July","25","25","Gastropoda","X.1",1
+"326","Indeterminate larvae","July","25","25","Ascidiacea","X.1",1
+"327","Indeterminate larvae","July","25","25","Polychaeta","X.1",1
+"328","Indeterminate larvae","July","25","25","Decapoda","X.1",1
+"329","Indeterminate larvae","July","25","25","Echinodermata ","X.1",1
+"330","Indeterminate larvae","June","50","1","Gastropoda","X.1",1
+"331","Indeterminate larvae","June","50","1","Ascidiacea","X.1",1
+"332","Indeterminate larvae","June","50","1","Polychaeta","X.1",1
+"333","Indeterminate larvae","June","50","1","Decapoda","X.1",1
+"334","Indeterminate larvae","June","50","1","Echinodermata ","X.1",1
+"335","Indeterminate larvae","September","16","3","Gastropoda","X.1",1
+"336","Indeterminate larvae","September","16","3","Ascidiacea","X.1",1
+"337","Indeterminate larvae","September","16","3","Polychaeta","X.1",1
+"338","Indeterminate larvae","September","16","3","Decapoda","X.1",1
+"339","Indeterminate larvae","September","16","3","Echinodermata ","X.1",1
+"340","Indeterminate larvae","April","16","64","Gastropoda","X.1",1
+"341","Indeterminate larvae","April","16","64","Ascidiacea","X.1",1
+"342","Indeterminate larvae","April","16","64","Polychaeta","X.1",1
+"343","Indeterminate larvae","April","16","64","Decapoda","X.1",1
+"344","Indeterminate larvae","April","16","64","Echinodermata ","X.1",1
+"345","Indeterminate larvae","April","16","16","Gastropoda","X.1",1
+"346","Indeterminate larvae","April","16","16","Ascidiacea","X.1",1
+"347","Indeterminate larvae","April","16","16","Polychaeta","X.1",1
+"348","Indeterminate larvae","April","16","16","Decapoda","X.1",1
+"349","Indeterminate larvae","April","16","16","Echinodermata ","X.1",1
+"350","Indeterminate larvae","May","50","150","Gastropoda","X.1",1
+"351","Indeterminate larvae","May","50","150","Ascidiacea","X.1",1
+"352","Indeterminate larvae","May","50","150","Polychaeta","X.1",1
+"353","Indeterminate larvae","May","50","150","Decapoda","X.1",1
+"354","Indeterminate larvae","May","50","150","Echinodermata ","X.1",1
+"355","Indeterminate larvae","July","25","25","Gastropoda","X.1",1
+"356","Indeterminate larvae","July","25","25","Ascidiacea","X.1",1
+"357","Indeterminate larvae","July","25","25","Polychaeta","X.1",1
+"358","Indeterminate larvae","July","25","25","Decapoda","X.1",1
+"359","Indeterminate larvae","July","25","25","Echinodermata ","X.1",1
+"360","Indeterminate larvae","October","16","1","Gastropoda","X.1",1
+"361","Indeterminate larvae","October","16","1","Ascidiacea","X.1",1
+"362","Indeterminate larvae","October","16","1","Polychaeta","X.1",1
+"363","Indeterminate larvae","October","16","1","Decapoda","X.1",1
+"364","Indeterminate larvae","October","16","1","Echinodermata ","X.1",1
+"365","Indeterminate larvae","July","25","100","Gastropoda","X.1",1
+"366","Indeterminate larvae","July","25","100","Ascidiacea","X.1",1
+"367","Indeterminate larvae","July","25","100","Polychaeta","X.1",1
+"368","Indeterminate larvae","July","25","100","Decapoda","X.1",1
+"369","Indeterminate larvae","July","25","100","Echinodermata ","X.1",1
+"370","Indeterminate larvae","September","16","34","Gastropoda","X.1",1
+"371","Indeterminate larvae","September","16","34","Ascidiacea","X.1",1
+"372","Indeterminate larvae","September","16","34","Polychaeta","X.1",1
+"373","Indeterminate larvae","September","16","34","Decapoda","X.1",1
+"374","Indeterminate larvae","September","16","34","Echinodermata ","X.1",1
+"375","Indeterminate larvae","June","50","50","Gastropoda","X.1",1
+"376","Indeterminate larvae","June","50","50","Ascidiacea","X.1",1
+"377","Indeterminate larvae","June","50","50","Polychaeta","X.1",1
+"378","Indeterminate larvae","June","50","50","Decapoda","X.1",1
+"379","Indeterminate larvae","June","50","50","Echinodermata ","X.1",1
+"380","Indeterminate larvae","August","100","604","Gastropoda","X.1",1
+"381","Indeterminate larvae","August","100","604","Ascidiacea","X.1",1
+"382","Indeterminate larvae","August","100","604","Polychaeta","X.1",1
+"383","Indeterminate larvae","August","100","604","Decapoda","X.1",1
+"384","Indeterminate larvae","August","100","604","Echinodermata ","X.1",1
+"385","Indeterminate larvae","May","50","2","Gastropoda","X.1",1
+"386","Indeterminate larvae","May","50","2","Ascidiacea","X.1",1
+"387","Indeterminate larvae","May","50","2","Polychaeta","X.1",1
+"388","Indeterminate larvae","May","50","2","Decapoda","X.1",1
+"389","Indeterminate larvae","May","50","2","Echinodermata ","X.1",1
+"390","Indeterminate larvae","August","100","23","Gastropoda","X.1",1
+"391","Indeterminate larvae","August","100","23","Ascidiacea","X.1",1
+"392","Indeterminate larvae","August","100","23","Polychaeta","X.1",1
+"393","Indeterminate larvae","August","100","23","Decapoda","X.1",1
+"394","Indeterminate larvae","August","100","23","Echinodermata ","X.1",1
+"395","Indeterminate nauplii","September","16","32","Euphausiidae ","X.1",1
+"396","Indeterminate nauplii","September","16","32","Copepoda ","X.1",1
+"397","Indeterminate nauplii","September","16","32","Crustacea ","X.1",1
+"398","Indeterminate nauplii","March","8","16","Euphausiidae ","X.1",1
+"399","Indeterminate nauplii","March","8","16","Copepoda ","X.1",1
+"400","Indeterminate nauplii","March","8","16","Crustacea ","X.1",1
+"401","Indeterminate nauplii","August","100","300","Euphausiidae ","X.1",1
+"402","Indeterminate nauplii","August","100","300","Copepoda ","X.1",1
+"403","Indeterminate nauplii","August","100","300","Crustacea ","X.1",1
+"404","Indeterminate nauplii","April","16","2480","Euphausiidae ","X.1",1
+"405","Indeterminate nauplii","April","16","2480","Copepoda ","X.1",1
+"406","Indeterminate nauplii","April","16","2480","Crustacea ","X.1",1
+"407","Indeterminate nauplii","July","25","6050","Euphausiidae ","X.1",1
+"408","Indeterminate nauplii","July","25","6050","Copepoda ","X.1",1
+"409","Indeterminate nauplii","July","25","6050","Crustacea ","X.1",1
+"410","Indeterminate nauplii","June","50","6850","Euphausiidae ","X.1",1
+"411","Indeterminate nauplii","June","50","6850","Copepoda ","X.1",1
+"412","Indeterminate nauplii","June","50","6850","Crustacea ","X.1",1
+"413","Indeterminate nauplii","October","16","16","Euphausiidae ","X.1",1
+"414","Indeterminate nauplii","October","16","16","Copepoda ","X.1",1
+"415","Indeterminate nauplii","October","16","16","Crustacea ","X.1",1
+"416","Indeterminate nauplii","August","100","18700","Euphausiidae ","X.1",1
+"417","Indeterminate nauplii","August","100","18700","Copepoda ","X.1",1
+"418","Indeterminate nauplii","August","100","18700","Crustacea ","X.1",1
+"419","Indeterminate nauplii","May","50","8750","Euphausiidae ","X.1",1
+"420","Indeterminate nauplii","May","50","8750","Copepoda ","X.1",1
+"421","Indeterminate nauplii","May","50","8750","Crustacea ","X.1",1
+"422","Indeterminate nauplii","March","8","2256","Euphausiidae ","X.1",1
+"423","Indeterminate nauplii","March","8","2256","Copepoda ","X.1",1
+"424","Indeterminate nauplii","March","8","2256","Crustacea ","X.1",1
+"425","Indeterminate zoea","September","16","21","Brachyura","X.1",1
+"426","Indeterminate zoea","September","16","21","Anomura","X.1",1
+"427","Indeterminate zoea","August","100","4","Brachyura","X.1",1
+"428","Indeterminate zoea","August","100","4","Anomura","X.1",1
+"429","Indeterminate zoea","July","25","1","Brachyura","X.1",1
+"430","Indeterminate zoea","July","25","1","Anomura","X.1",1
+"431","Indeterminate zoea","September","16","2","Brachyura","X.1",1
+"432","Indeterminate zoea","September","16","2","Anomura","X.1",1
+"433","Indeterminate zoea","October","16","1","Brachyura","X.1",1
+"434","Indeterminate zoea","October","16","1","Anomura","X.1",1
+"435","Indeterminate zoea","July","25","2","Brachyura","X.1",1
+"436","Indeterminate zoea","July","25","2","Anomura","X.1",1
+"437","Larvae","May","50","3","Fish","X.1",1
+"438","Larvae","May","50","3","Anthozoa","X.1",1
+"439","Larvae","May","50","3","Nemertea","X.1",1
+"440","Larvae","April","16","2","Fish","X.1",1
+"441","Larvae","April","16","2","Anthozoa","X.1",1
+"442","Larvae","April","16","2","Nemertea","X.1",1
+"443","Larvae","September","16","1","Fish","X.1",1
+"444","Larvae","September","16","1","Anthozoa","X.1",1
+"445","Larvae","September","16","1","Nemertea","X.1",1
+"446","Larvae","August","100","1","Fish","X.1",1
+"447","Larvae","August","100","1","Anthozoa","X.1",1
+"448","Larvae","August","100","1","Nemertea","X.1",1
+"449","Leuckartiara octona","April","16","1","Hydrozoa ","X.1",1
+"450","Lizzia blondina","September","16","1","Hydrozoa ","X.1",1
+"451","Lizzia blondina","July","25","5","Hydrozoa ","X.1",1
+"452","Meganyctiphanes norvegica adult","August","100","2","Euphausiidae ","X.1",1
+"453","Microcalanus pusillus C1","April","16","64","Calanoida","X.1",1
+"454","Microcalanus pusillus C1","March","8","24","Calanoida","X.1",1
+"455","Microcalanus pusillus C2","April","16","48","Calanoida","X.1",1
+"456","Microcalanus pusillus C3","July","25","200","Calanoida","X.1",1
+"457","Microcalanus pusillus C3","April","16","32","Calanoida","X.1",1
+"458","Microcalanus pusillus C4","July","25","200","Calanoida","X.1",1
+"459","Microcalanus pusillus C4","May","50","100","Calanoida","X.1",1
+"460","Microcalanus pusillus C4","April","16","16","Calanoida","X.1",1
+"461","Microcalanus pusillus C5","June","50","50","Calanoida","X.1",1
+"462","Microcalanus pusillus C5","March","8","16","Calanoida","X.1",1
+"463","Microcalanus pusillus C6M","April","16","16","Calanoida","X.1",1
+"464","Microcalanus pusillus C6M","June","50","50","Calanoida","X.1",1
+"465","Microsetella norvegica","March","8","96","Harpacticoida","X.1",1
+"466","Microsetella norvegica","July","25","25","Harpacticoida","X.1",1
+"467","Microsetella norvegica","April","16","32","Harpacticoida","X.1",1
+"468","Month","September","16","September","","X.1",1
+"469","Month","March","8","March","","X.1",1
+"470","Month","August","100","August","","X.1",1
+"471","Month","May","50","May","","X.1",1
+"472","Month","April","16","April","","X.1",1
+"473","Month","October","16","October","","X.1",1
+"474","Month","June","50","June","","X.1",1
+"475","Month","July","25","July","","X.1",1
+"476","Month","November","2","November","","X.1",1
+"477","Nanomia cara","July","25","1","Siphonophora ","X.1",1
+"478","Nauplius","March","8","192","Cirripedia","X.1",1
+"479","Nauplius","August","100","100","Cirripedia","X.1",1
+"480","Nauplius","July","25","25","Cirripedia","X.1",1
+"481","Nauplius","April","16","128","Cirripedia","X.1",1
+"482","Obelia spp.","April","16","16","Hydrozoa ","X.1",1
+"483","Obelia spp.","May","50","3","Hydrozoa ","X.1",1
+"484","Obelia spp.","October","16","3","Hydrozoa ","X.1",1
+"485","Obelia spp.","March","8","16","Hydrozoa ","X.1",1
+"486","Obelia spp.","August","100","3","Hydrozoa ","X.1",1
+"487","Obelia spp.","September","16","4","Hydrozoa ","X.1",1
+"488","Obelia spp.","June","50","4","Hydrozoa ","X.1",1
+"489","Oikopleura spp.","September","16","256","Appendicularia","X.1",1
+"490","Oikopleura spp.","June","50","1052","Appendicularia","X.1",1
+"491","Oikopleura spp.","March","8","88","Appendicularia","X.1",1
+"492","Oikopleura spp.","August","100","6100","Appendicularia","X.1",1
+"493","Oikopleura spp.","April","16","16","Appendicularia","X.1",1
+"494","Oikopleura spp.","October","16","128","Appendicularia","X.1",1
+"495","Oikopleura spp.","May","50","950","Appendicularia","X.1",1
+"496","Oikopleura spp.","July","25","300","Appendicularia","X.1",1
+"497","Oikopleura spp.","November","2","14","Appendicularia","X.1",1
+"498","Oithona spp. C1-5","April","16","400","Cyclopoida","X.1",1
+"499","Oithona spp. C1-5","August","100","1700","Cyclopoida","X.1",1
+"500","Oithona spp. C1-5","November","2","18","Cyclopoida","X.1",1
+"501","Oithona spp. C1-5","July","25","375","Cyclopoida","X.1",1
+"502","Oithona spp. C1-5","March","8","200","Cyclopoida","X.1",1
+"503","Oithona spp. C1-5","May","50","250","Cyclopoida","X.1",1
+"504","Oithona spp. C6F","August","100","600","Cyclopoida","X.1",1
+"505","Oithona spp. C6F","July","25","125","Cyclopoida","X.1",1
+"506","Oithona spp. C6F","April","16","16","Cyclopoida","X.1",1
+"507","Oithona spp. C6F","March","8","16","Cyclopoida","X.1",1
+"508","Oithona spp. C6F","May","50","50","Cyclopoida","X.1",1
+"509","Oithona spp. C6F","September","16","16","Cyclopoida","X.1",1
+"510","Oithona spp. C6F","November","2","2","Cyclopoida","X.1",1
+"511","Oithona spp. C6M","March","8","8","Cyclopoida","X.1",1
+"512","Oithona spp. C6M","October","16","16","Cyclopoida","X.1",1
+"513","Oncaea spp. ","March","8","8","Cyclopoida","X.1",1
+"514","Ophiopluteus larvae (brittle star)","July","25","50","Echinodermata ","X.1",1
+"515","Ophiopluteus larvae (brittle star)","June","50","150","Echinodermata ","X.1",1
+"516","Ophiopluteus larvae (brittle star)","August","100","200","Echinodermata ","X.1",1
+"517","Paracalanus parvus C1","April","16","176","Calanoida","X.1",1
+"518","Paracalanus parvus C1","June","50","50","Calanoida","X.1",1
+"519","Paracalanus parvus C2","April","16","224","Calanoida","X.1",1
+"520","Paracalanus parvus C3","April","16","176","Calanoida","X.1",1
+"521","Paracalanus parvus C4","October","16","32","Calanoida","X.1",1
+"522","Paracalanus parvus C4","June","50","50","Calanoida","X.1",1
+"523","Paracalanus parvus C4","April","16","128","Calanoida","X.1",1
+"524","Paracalanus parvus C5","October","16","80","Calanoida","X.1",1
+"525","Paracalanus parvus C5","September","16","36","Calanoida","X.1",1
+"526","Paracalanus parvus C5","November","2","26","Calanoida","X.1",1
+"527","Paracalanus parvus C5","April","16","48","Calanoida","X.1",1
+"528","Paracalanus parvus C6F","April","16","48","Calanoida","X.1",1
+"529","Paracalanus parvus C6F","October","16","112","Calanoida","X.1",1
+"530","Paracalanus parvus C6F","November","2","6","Calanoida","X.1",1
+"531","Paracalanus parvus C6M","May","50","50","Calanoida","X.1",1
+"532","Paracalanus parvus C6M","October","16","48","Calanoida","X.1",1
+"533","Paracalanus parvus C6M","November","2","2","Calanoida","X.1",1
+"534","Parasagitta elegans","May","50","1","Chaetognatha","X.1",1
+"535","Parasagitta spp.","October","16","15","Chaetognatha","X.1",1
+"536","Parasagitta spp.","June","50","1","Chaetognatha","X.1",1
+"537","Parasagitta spp.","September","16","5","Chaetognatha","X.1",1
+"538","Parasagitta spp.","April","16","32","Chaetognatha","X.1",1
+"539","Parasagitta spp.","August","100","9","Chaetognatha","X.1",1
+"540","Parasagitta spp.","November","2","3","Chaetognatha","X.1",1
+"541","Parasitic","September","16","1","Isopoda ","X.1",1
+"542","Phialella quadrata","August","100","1","Hydrozoa ","X.1",1
+"543","Pisidia longicornis zoea","August","100","2","Anomura","X.1",1
+"544","Pleurobrachia pileus","September","16","2","Ctenophora","X.1",1
+"545","Pleurobrachia pileus","July","25","25","Ctenophora","X.1",1
+"546","Podon/ Pleopsis spp.","August","100","200","Cladocera","X.1",1
+"547","Podon/ Pleopsis spp.","May","50","50","Cladocera","X.1",1
+"548","Podon/ Pleopsis spp.","September","16","32","Cladocera","X.1",1
+"549","Podon/ Pleopsis spp.","July","25","25","Cladocera","X.1",1
+"550","Podon/ Pleopsis spp.","October","16","16","Cladocera","X.1",1
+"551","Pseudocalanus minutus-elongatus C1","April","16","16","Calanoida","X.1",1
+"552","Pseudocalanus minutus-elongatus C1","August","100","100","Calanoida","X.1",1
+"553","Pseudocalanus minutus-elongatus C1","July","25","150","Calanoida","X.1",1
+"554","Pseudocalanus minutus-elongatus C1","June","50","700","Calanoida","X.1",1
+"555","Pseudocalanus minutus-elongatus C1","May","50","100","Calanoida","X.1",1
+"556","Pseudocalanus minutus-elongatus C2","October","16","16","Calanoida","X.1",1
+"557","Pseudocalanus minutus-elongatus C2","April","16","144","Calanoida","X.1",1
+"558","Pseudocalanus minutus-elongatus C2","July","25","175","Calanoida","X.1",1
+"559","Pseudocalanus minutus-elongatus C2","May","50","100","Calanoida","X.1",1
+"560","Pseudocalanus minutus-elongatus C2","June","50","550","Calanoida","X.1",1
+"561","Pseudocalanus minutus-elongatus C3","March","8","8","Calanoida","X.1",1
+"562","Pseudocalanus minutus-elongatus C3","June","50","500","Calanoida","X.1",1
+"563","Pseudocalanus minutus-elongatus C3","April","16","128","Calanoida","X.1",1
+"564","Pseudocalanus minutus-elongatus C3","September","16","16","Calanoida","X.1",1
+"565","Pseudocalanus minutus-elongatus C3","May","50","150","Calanoida","X.1",1
+"566","Pseudocalanus minutus-elongatus C3","July","25","150","Calanoida","X.1",1
+"567","Pseudocalanus minutus-elongatus C4","September","16","64","Calanoida","X.1",1
+"568","Pseudocalanus minutus-elongatus C4","November","2","18","Calanoida","X.1",1
+"569","Pseudocalanus minutus-elongatus C4","August","100","1300","Calanoida","X.1",1
+"570","Pseudocalanus minutus-elongatus C4","March","8","8","Calanoida","X.1",1
+"571","Pseudocalanus minutus-elongatus C4","June","50","300","Calanoida","X.1",1
+"572","Pseudocalanus minutus-elongatus C4","July","25","175","Calanoida","X.1",1
+"573","Pseudocalanus minutus-elongatus C4","April","16","560","Calanoida","X.1",1
+"574","Pseudocalanus minutus-elongatus C4","May","50","200","Calanoida","X.1",1
+"575","Pseudocalanus minutus-elongatus C4","October","16","112","Calanoida","X.1",1
+"576","Pseudocalanus minutus-elongatus C5","June","50","350","Calanoida","X.1",1
+"577","Pseudocalanus minutus-elongatus C5","October","16","512","Calanoida","X.1",1
+"578","Pseudocalanus minutus-elongatus C5","September","16","16","Calanoida","X.1",1
+"579","Pseudocalanus minutus-elongatus C5","July","25","150","Calanoida","X.1",1
+"580","Pseudocalanus minutus-elongatus C5","August","100","300","Calanoida","X.1",1
+"581","Pseudocalanus minutus-elongatus C5","April","16","160","Calanoida","X.1",1
+"582","Pseudocalanus minutus-elongatus C5","May","50","200","Calanoida","X.1",1
+"583","Pseudocalanus minutus-elongatus C6F","June","50","250","Calanoida","X.1",1
+"584","Pseudocalanus minutus-elongatus C6F","May","50","600","Calanoida","X.1",1
+"585","Pseudocalanus minutus-elongatus C6F","July","25","400","Calanoida","X.1",1
+"586","Pseudocalanus minutus-elongatus C6F","April","16","32","Calanoida","X.1",1
+"587","Pseudocalanus minutus-elongatus C6F","September","16","96","Calanoida","X.1",1
+"588","Pseudocalanus minutus-elongatus C6F","October","16","160","Calanoida","X.1",1
+"589","Pseudocalanus minutus-elongatus C6M","September","16","16","Calanoida","X.1",1
+"590","Pseudocalanus minutus-elongatus C6M","July","25","50","Calanoida","X.1",1
+"591","Pseudocalanus minutus-elongatus C6M","October","16","16","Calanoida","X.1",1
+"592","Pseudocalanus minutus-elongatus C6M","June","50","200","Calanoida","X.1",1
+"593","Pseudocalanus minutus-elongatus C6M","April","16","16","Calanoida","X.1",1
+"594","Remains","September","16","1","Cnidaeria","X.1",1
+"595","Remains","September","16","1","Ctenophora","X.1",1
+"596","Remains","July","25","27","Cnidaeria","X.1",1
+"597","Remains","July","25","27","Ctenophora","X.1",1
+"598","Sub-sample multiplier","November","2","2","","X.1",1
+"599","Sub-sample multiplier","October","16","16","","X.1",1
+"600","Sub-sample multiplier","July","25","25","","X.1",1
+"601","Sub-sample multiplier","March","8","8","","X.1",1
+"602","Sub-sample multiplier","May","50","50","","X.1",1
+"603","Sub-sample multiplier","June","50","50","","X.1",1
+"604","Sub-sample multiplier","September","16","16","","X.1",1
+"605","Sub-sample multiplier","August","100","100","","X.1",1
+"606","Sub-sample multiplier","April","16","16","","X.1",1
+"607","Temora longicornis C1","July","25","125","Calanoida","X.1",1
+"608","Temora longicornis C1","August","100","200","Calanoida","X.1",1
+"609","Temora longicornis C1","June","50","50","Calanoida","X.1",1
+"610","Temora longicornis C2","June","50","50","Calanoida","X.1",1
+"611","Temora longicornis C2","August","100","300","Calanoida","X.1",1
+"612","Temora longicornis C2","July","25","50","Calanoida","X.1",1
+"613","Temora longicornis C3","July","25","50","Calanoida","X.1",1
+"614","Temora longicornis C3","August","100","100","Calanoida","X.1",1
+"615","Temora longicornis C3","June","50","50","Calanoida","X.1",1
+"616","Temora longicornis C4","May","50","50","Calanoida","X.1",1
+"617","Temora longicornis C4","September","16","16","Calanoida","X.1",1
+"618","Temora longicornis C4","June","50","100","Calanoida","X.1",1
+"619","Temora longicornis C4","July","25","50","Calanoida","X.1",1
+"620","Temora longicornis C5","October","16","16","Calanoida","X.1",1
+"621","Temora longicornis C6F","April","16","32","Calanoida","X.1",1
+"622","Temora longicornis C6F","August","100","100","Calanoida","X.1",1
+"623","Temora longicornis C6F","September","16","16","Calanoida","X.1",1
+"624","Temora longicornis C6F","October","16","32","Calanoida","X.1",1
+"625","Temora longicornis C6M","May","50","50","Calanoida","X.1",1
+"626","Temora longicornis C6M","July","25","50","Calanoida","X.1",1
+"627","Temora longicornis C6M","October","16","32","Calanoida","X.1",1
+"628","Temora longicornis C6M","June","50","50","Calanoida","X.1",1
+"629","Tomopteris spp.","August","100","1","Polychaeta","X.1",1
+"630","Tomopteris spp.","July","25","12","Polychaeta","X.1",1
